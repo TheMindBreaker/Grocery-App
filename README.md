@@ -41,6 +41,8 @@ py src/app.py
 - Correr Pruebas
 pytest tests
 
+Nota: Pueden utilizar la coleccion de insomnia para probar los endpoints del api. 
+
 
 
 # Video:
