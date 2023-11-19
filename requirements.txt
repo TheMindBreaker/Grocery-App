@@ -1,0 +1,8 @@
+SQLAlchemy
+fastapi
+uvicorn
+pytest
+httpx
+Jinja2
+python-multipart
+pytest-pythonpath

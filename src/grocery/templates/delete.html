@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+
+{% block title %}
+  Delete Item
+{% endblock %}
+
+{% block content %}
+        <h2>Delete Item</h2>
+        <p>Are you sure you want to delete the item with SKU: {{ item.sku }} and name: {{item.name}}?</p>
+        <form action="/delete/{{ item.sku }}" method="post">
+            <button type="submit" class="btn btn-danger">Delete</button>
+        </form>
+{% endblock %}
