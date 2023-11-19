@@ -46,5 +46,4 @@ Nota: Pueden utilizar la coleccion de insomnia para probar los endpoints del api
 
 
 # Video:
-[ https://drive.google.com/file/d/19n_nec6PFZdmzpwSNwQ1R1oiyApkpa6A/view?usp=sharing](https://drive.google.com/file/d/1eESWMxwQwquuiekidkN5FrwYdHnswbmq/view?usp=drive_link)
-
+https://drive.google.com/file/d/1eESWMxwQwquuiekidkN5FrwYdHnswbmq/view?usp=sharing
